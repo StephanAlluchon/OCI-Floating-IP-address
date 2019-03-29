@@ -1,0 +1,30 @@
+[
+{
+    "VM1PAN":"127.0.0.1",
+    "VM2PAN":"192.168.10.193"
+},
+{
+    "IP1":"10.0.20.10",
+    "IP2":"10.0.20.11", 
+    "IP3":"10.0.20.50",
+    "MysubnetID":"ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaa5ijvwuqsfqhqgp4f6ywjtn4gc4hnt6jdz42u4fb6rh4xfxevj5qa"
+},
+{
+    "IP1":"10.0.40.10",
+    "IP2":"10.0.40.11", 
+    "IP3":"10.0.40.50",
+    "MysubnetID":"ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaaift3chl7de6ntr32r6kfzooba5csr7qzlbhmlaubq54dxm5dfhva"
+},
+{
+    "IP1":"10.0.30.10",
+    "IP2":"10.0.30.11", 
+    "IP3":"10.0.30.50",
+    "MysubnetID":"ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaaorlbrppfe5tsjrqloczqfzlen5cgszz2nwchqft7zcimzxlb6cra"
+},
+{
+    "IP1":"10.104.0.10",
+    "IP2":"10.104.0.11", 
+    "IP3":"10.104.0.50",
+    "MysubnetID":"ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaavj45zx4bwhorxsgr77sia5rcommcdwu4vdfngp2fcx34z5jxjpda"
+}
+]
