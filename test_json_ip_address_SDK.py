@@ -12,7 +12,7 @@
 import json
 import oci
 from oci.config import from_file
-config = from_file(profile_name="essilor")
+config = from_file(profile_name="yourprofile")
 # need to run flask in virtual environnement pip install flask
 from flask import Flask, request
 
