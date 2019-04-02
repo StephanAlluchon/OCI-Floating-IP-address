@@ -7,6 +7,8 @@ Author: stephan.alluchon@oracle.com
 
 Oracle Cloud  Infrastructure (OCI)
 
+The guide in this directory and accompanied files are released under an as-is, best effort, support policy. These scripts should be seen as community supported. 
+
 We have 2 VM: VM1 and VM2. ALL Secondary privateIP will move from VNIC VM1 to VNIC VM2.
 
 We use flask on default port 5000 for HTTP server. when we receive an URL http://@IP:5000/ChangePrivateIP_basedOnIP
