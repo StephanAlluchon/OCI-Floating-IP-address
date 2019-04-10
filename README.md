@@ -18,10 +18,12 @@ we move a secondary private IP to a different VNIC in the same subnet
 So the HTTP request is the trigger
 URLs are:
 http://@IP:5000/PrimaryIsVM1 ==> force VM1 to be primary for all PrivateIP (Ip secondary)
-http://@IP:5000/PrimaryIsVM2 ==> force VM2 to be primary
-http://@IP:5000/IamPrimary ==> The one which sends the request becomes Primary
-http://@IP:5000/ItisPrimary ==> The one which sends the request becomes secondary
 
+http://@IP:5000/PrimaryIsVM2 ==> force VM2 to be primary
+
+http://@IP:5000/IamPrimary ==> The one which sends the request becomes Primary
+
+http://@IP:5000/ItisPrimary ==> The one which sends the request becomes secondary
 
 So the HTTP request is the trigger.
 API reference
