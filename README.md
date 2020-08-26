@@ -1,9 +1,9 @@
 # OCIfloatingIP
 Moving all IP secondary addresses from VNICs of VM#1 to VNICs of VM2#
 
-Version 0.9
+Version 1.0
 
-Author: stephan.alluchon@oracle.com
+Author: salluchon@vmware.com
 
 Oracle Cloud  Infrastructure (OCI)
 
